@@ -201,7 +201,7 @@ Menampilkan semua produk dari database dalam bentuk list card. Fitur:
 - **Drawer menu** dengan opsi logout
 
 ### 4. Tambah Produk
-<img src="screenshots/ss%20tambah%20produk%20tokokita.jpg" width="300" alt="Tambah Produk Page">
+<img src="screenshots/ss tambah produk tokokita.jpg" width="300" alt="Tambah Produk Page">
 
 Form untuk menambah produk baru dengan field:
 - **Kode Produk** (wajib diisi)
